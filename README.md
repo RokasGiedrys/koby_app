@@ -1,6 +1,34 @@
-# Welcome to your Expo app 👋
+# Post Sharing App 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+
+ Built with <strong>React Native</strong>, 
+    <strong>Animatable</strong> for captivating animations, and integrated with the dependable backend systems of 
+    <strong>Appwrite</strong>. This app showcases  design and functionality, enabling seamless sharing of posts with two images (thumbnail and main image). App is not fully finished as created to play around with React Native and Expo.
+  </p>
+
+  <h2>⚙️ Tech Stack</h2>
+  <ul>
+    <li><strong>React Native</strong></li>
+    <li><strong>Expo</strong></li>
+    <li><strong>Nativewind</strong></li>
+    <li><strong>Animatable</strong></li>
+    <li><strong>Appwrite</strong></li>
+  </ul>
+
+  <h2>🔋 Features</h2>
+  <ul>
+    <li><strong>Onboarding Screen:</strong> Cear instructions welcome users to the app.</li>
+    <li><strong>Authentication & Authorisation:</strong> Secure email login safeguards user accounts.</li>
+    <li><strong>Dynamic Home Screen:</strong> Animated flat list showcases the posts for seamless browsing.</li>
+    <li><strong>Pull-to-Refresh:</strong> Refresh content with a simple pull gesture.</li>
+    <li><strong>Full-Text Search:</strong> Real-time suggestions and instant results for efficient post search.</li>
+    <li><strong>Tab Navigation:</strong> Easily navigate between Home, Search, and Profile sections.</li>
+    <li><strong>Post Creation:</strong> Upload images directly from the app.</li>
+    <li><strong>Profile Screen:</strong> View account details, uploads, and follower counts.</li>
+    <li><strong>Responsive Design:</strong> Smooth performance across all devices.</li>
+    <li><strong>Animations:</strong> Dynamic UI animations powered by Animatable.</li>
+  </ul>
 
 ## Get started
 
